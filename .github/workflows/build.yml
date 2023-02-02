@@ -13,7 +13,7 @@ jobs:
       - name: 'Building...'
         uses: reuixiy/hugo-deploy@v1
         env:
-          DEPLOY_REPO: easytzb/easytzb.github.io
+          DEPLOY_REPO: tzbwd/tzbwd.github.io
           DEPLOY_BRANCH: build
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
           TZ: Asia/Shanghai
