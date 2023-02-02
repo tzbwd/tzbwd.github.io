@@ -1,0 +1,5 @@
+baseURL = 'http://192.168.10.141/'
+languageCode = 'zh-cn'
+title = '棠下坊'
+theme = "diary"
+copyright = "This is a customized copyright."
